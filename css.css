@@ -1,0 +1,13 @@
+.navbar-brand{
+    width: 100px;
+    /* filter: drop-shadow(1px black); */
+}
+.modal-body{
+
+    p{
+        padding: 15px;
+    }
+    img{
+        align-items: center;
+    };
+}
