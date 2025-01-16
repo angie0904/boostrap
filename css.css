@@ -18,3 +18,26 @@
 .collage{
     width: 50%;
 }
+.banner{
+    background: url(./img/bannerLeon.jpg);
+    height: 28vh;
+
+background-position: center;
+}
+h2{
+    
+    font-weight: 300;
+}
+.mapa{
+width: 88%;
+}
+.barra{
+    width: 20px;
+}
+.lista{
+    list-style: none;
+    font-size: 25px;
+}
+.este{
+    display: flex;
+}
