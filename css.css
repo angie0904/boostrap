@@ -95,3 +95,42 @@ width: 88%;
 }
 
 
+/*Pg Tigre*/
+
+.bannerT{
+   height: 10vh;
+   
+}
+.tamaño{
+    background: url(./img/tamaño.jpg);
+    height: 20vh;
+    background-position: center;
+    background-size: cover;
+    color: rgb(15, 15, 15);
+    
+    filter: brightness(0.7);
+    text-align: center;
+}
+
+.pelaje{
+    background: url(./img/pelaje.jpeg);
+    height: 20vh;
+    background-position: center;
+    background-size: cover;
+    color: rgb(15, 15, 15);
+    filter: brightness(0.7);
+    text-align: center;
+}
+
+.ojos{
+    background: url(./img/ojos.jpg);
+    height: 20vh;
+    background-position: center;
+    background-size: cover;
+    color: rgb(15, 15, 15);
+    filter: brightness(0.7);
+    text-align: center;
+}
+.carac{
+    height: 40vh;
+}
