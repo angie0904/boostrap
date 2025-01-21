@@ -1,7 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    
+        background-color: #ffd456b3;;
+}
+#menu{
+    background-color: #efca5cd4;
+}
 .navbar-brand{
     width: 100px;
+    
     /* filter: drop-shadow(1px black); */
 }
+
+/*Pg inicio*/
 .modal-body{
 
     p{
@@ -12,7 +27,9 @@
     };
 }
 
-
+.curiosidades{
+    height: 52vh;
+}
 
 .collage{
     width: 50%;
@@ -35,6 +52,10 @@ padding: 30px;
 #trabajadores{
 height: 82vh;
 align-content: center;
+.card{
+    background: none;
+    border: none;
+}
 }
 .este{
     padding-top: 42px;
@@ -153,7 +174,71 @@ background-size: cover;
     PADDING: 30PX;
 }
 
+.tigres{
+    height: 70vh;
+    width: 72%;
+}
+.curiosidades{
+    height: 65vh;
+}
+.carruFin{
+    height: 89vh;
+}
 /*pgLeopardo*/
 .imgleo{
-    width: 30%;
+    width: 100%;
+}
+.leo{
+    height: 70vh;
+    padding: 19px;
+}
+.leopardos{
+    height: 148vh;
+    img{
+
+        width: 100%;
+    }
+}
+.leop1{
+    background: url(./img/leop1);
+    height: 30vh;
+    background-position: center;
+    background-size: cover;
+    color: #ffc107;
+    padding: 4px;
+    text-align: justify;
+    p{
+        filter: brightness(0.7);
+    }
+}
+.leop2{
+background: url(./img/leop2.jpg);
+height: 30vh;
+background-position: center;
+background-size: cover;
+color: #ffc107;
+padding: 4px;
+text-align: justify;
+}
+.leop3{
+background: url(./img/leop3);
+height: 30vh;
+background-position: center;
+background-size: cover;
+color: #ffc107;
+padding: 4px;
+text-align: justify;
+}
+.leop4{
+background: url(./img/leop4);
+height: 30vh;
+background-position: center;
+background-size: cover;
+color: #ffc107;
+padding: 4px;
+text-align: justify;
+}
+.tipos{
+    height: 80vh;
+    filter: contrast(0.8);
 }
