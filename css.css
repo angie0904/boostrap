@@ -110,8 +110,10 @@ width: 88%;
 /*Pg Tigre*/
 
 .bannerT{
-   height: 10vh;
-   
+    background: url(./img/ojos.jpg);
+    height: 28vh;
+background-position: center;
+background-size: cover;
 }
 
 .tamaño{
@@ -147,5 +149,11 @@ width: 88%;
     background:rgba(0, 0, 0, 0.438);
 }
 .carac{
-    height: 40vh;
+    height: 27vh;
+    PADDING: 30PX;
+}
+
+/*pgLeopardo*/
+.imgleo{
+    width: 30%;
 }
