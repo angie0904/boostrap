@@ -242,3 +242,7 @@ text-align: justify;
     height: 80vh;
     filter: contrast(0.8);
 }
+footer a{
+text-decoration: none;
+color:white;
+}
