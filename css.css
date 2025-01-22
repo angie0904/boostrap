@@ -5,7 +5,7 @@
 
 main{
     
-        background-color: #ffd456b3;;
+        background-color: #ffd45666;
 }
 #menu{
     background-color: #efca5cd4;
@@ -41,6 +41,16 @@ main{
     height: 21vh;
     
 }
+@media screen and (max-width:769px) {
+    #trabajadores{
+        height: 100% !important;
+    }
+    .tra1{
+        height: 100% !important;
+    }
+}
+
+
 #trabajadores img:hover{
     filter: brightness(0.6);
 }
@@ -66,7 +76,7 @@ align-content: center;
 
 .carruLetras{
     background: url(./img/carruLe.jfif);
-    height: 43vh;
+    
     background-position: center;
     background-size: cover;
     color: rgb(255, 214, 80);
